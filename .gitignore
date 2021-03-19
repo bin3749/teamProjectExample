@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/vue,node,java,eclipse,vuejs,maven,windows,linux,java-web,intellij,intellij+all,intellij+iml
-# Edit at https://www.toptal.com/developers/gitignore?templates=vue,node,java,eclipse,vuejs,maven,windows,linux,java-web,intellij,intellij+all,intellij+iml
+# Created by https://www.toptal.com/developers/gitignore/api/vue,node,vuejs,linux,maven,windows,eclipse,java-web,intellij,intellij+all,intellij+iml,java
+# Edit at https://www.toptal.com/developers/gitignore?templates=vue,node,vuejs,linux,maven,windows,eclipse,java-web,intellij,intellij+all,intellij+iml,java
 
 ### Eclipse ###
 .metadata
@@ -505,4 +505,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/vue,node,java,eclipse,vuejs,maven,windows,linux,java-web,intellij,intellij+all,intellij+iml
+# End of https://www.toptal.com/developers/gitignore/api/vue,node,vuejs,linux,maven,windows,eclipse,java-web,intellij,intellij+all,intellij+iml,java
